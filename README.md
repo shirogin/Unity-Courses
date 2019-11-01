@@ -87,3 +87,5 @@ Unity Courses made by Youcef Madadi for Micro Club Training Camp
 |:------------:|:--------:|-----------|
 |   2019/2020  |     A    |           |
 |              |     B    |           |
+
+[VS code](https://code.visualstudio.com/docs/other/unity#_enabling-code-completion-for-recent-versions-of-unity)
